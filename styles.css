@@ -1,5 +1,18 @@
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+  }
+
+  h1{
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+
+  .established {
+    font-style: italic;
   }
   
   h1, h2, p {
@@ -28,3 +41,8 @@ body {
     text-align: right;
     width: 25%
   }
+
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
